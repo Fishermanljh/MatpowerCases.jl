@@ -1,0 +1,6 @@
+name = "JMatpower"
+uuid = UUIDs.uuid4()
+keywords = ["JMatpower"]
+license = "MIT"
+desc = "The JMatpower cases."
+version = "1.6.0"
