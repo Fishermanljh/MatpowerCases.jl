@@ -1,5 +1,5 @@
 name = "JMatpower"
-uuid = UUIDs.uuid4()
+uuid = "191fdcea-f9f2-43e0-b922-d33f71e2abc5"
 keywords = ["JMatpower"]
 license = "MIT"
 desc = "The JMatpower cases."
